@@ -75,9 +75,9 @@ ___
 
 <br/>  
 
-  
-
+<!--  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulmahar1&hide_border=true&layout=compact" align="center" /></div>  
+
 
 <br/>  
 
@@ -103,3 +103,4 @@ ___
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+-->
