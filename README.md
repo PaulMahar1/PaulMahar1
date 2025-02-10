@@ -16,9 +16,6 @@ ___
 <br>  
   
 
-___  
-  
-
 <br/>  
 
 <table><tr><td valign="top" width="33%">
@@ -78,7 +75,6 @@ ___
 
 <br/>  
 
-____  
   
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulmahar1&hide_border=true&layout=compact" align="center" /></div>  
