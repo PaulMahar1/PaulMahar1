@@ -1,10 +1,15 @@
-### <div align="center">💻 Hi, my name is Paul</div>  
+# <div align="center">Hi, my name is Paul</div>  
   
 
-___  
+
   
 
-<div align="center">IT Programming Student & Aspiring Front-End Developer</div>  
+
+<div align="center">
+  <strong><code>IT Programming Student & Aspiring Front-End Developer</code></strong>
+</div>
+
+
   
 
 <br>  
